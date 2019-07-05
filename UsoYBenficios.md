@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Uso y Benficios
-
+bigimg: img/stool.jpg
 ---
 
 ## Usos
