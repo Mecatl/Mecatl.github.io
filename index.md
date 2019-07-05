@@ -3,7 +3,7 @@ layout: page
 title: Mecatl
 show-avatar: false
 subtitle: Crear oportunidades a partir de botellas de plástico.
- Un proyecto de Altebrijes
+    <small> Un proyecto de Altebrijes </small>
 bigimg: 'img/ab-home-page-feature.jpg'
 use-site-title: true
 css: '/css/extend-home.css'
