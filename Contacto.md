@@ -3,9 +3,9 @@ layout: page
 title: Contacto
 
 ---
-¿Tiene alguna pregunta?
+<center>¿Tiene alguna pregunta?
 ¿Quieres Colaborar?
-
-Envíenos un mensaje
-
-altebrijesgroup@gmail.com
+<br>
+Envíenos un mensaje </center>
+<br>
+<center>altebrijesgroup@gmail.com</center>
