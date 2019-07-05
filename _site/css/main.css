@@ -19,11 +19,7 @@ h1 {
 }
 
 p {
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialiased !important;
-  -moz-font-smoothing: antialiased !important;
-  text-rendering: optimizelegibility !important;
-  letter-spacing: .03em;
+    display: inline-block;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Barriecito', 'Helvetica Neue', Helvetica, Arial, sans-serif;

@@ -20,9 +20,16 @@
 
 /* ------------------------- */
 
-.stack-color {
-    color: #58FA82;
+.stack-color-1 {
+    color: #be1e2d;
 }
+.stack-color-2 {
+    color: #009444;
+}
+.stack-color-3 {
+    color: #fbb040;
+}
+
 
 .spacer {
     height: 10px;

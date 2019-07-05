@@ -33,7 +33,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: /img/logo.jpg
+title-img: /img/mecatl-logo.png
 
 # --- Background colour/image options --- #
 
@@ -68,17 +68,17 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  rss: false
+  email: "altebrijesgroup@gmail.com"
+  #facebook: deanattali
+ # github: daattali
+  #twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: altebrijesgroup
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888

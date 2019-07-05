@@ -53,7 +53,7 @@ snapchat:
 
 instagram:
   name: "Instagram"
-  baseURL: "https://www.instagram.com/"
+  baseURL: "https://instagram.com/"
   icon: "fa-instagram"
 
 youtube:
