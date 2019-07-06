@@ -65,7 +65,7 @@ Por eso Mecatl es la herramienta ideal, pues permite que  las botellas sean conv
 <p>Si desea ser parte de un proyecto que puede contribuir a cambiar la vida de muchas familias, contactenos por medio de nuestras redes sociales o via e-mail  </p>
 </div>
   <br>
-<button type="button" class="btn btn-primary">Contribuir</button>
+
 
 
 
