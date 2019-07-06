@@ -2,14 +2,14 @@
 layout: page
 title: Mecatl
 show-avatar: false
-subtitle: Crear oportunidades a partir de botellas de plástico.
-    <small> Un proyecto de Altebrijes </small>
+subtitle: Crear despatando oportunidades a partir de botellas de plástico.
+    <small> Únete al proyecto altebrijes</small>
 bigimg: 'img/ab-home-page-feature.jpg'
 use-site-title: true
 css: '/css/extend-home.css'
 ---
 
-<h1 class="text-center">¿Por qué darle una segunda vida a las botellas de plástico ?</h1>
+<h2 class="text-center">¿Por qué darle una segunda vida a las botellas de plástico?</h2>
 
 <div class="spacer"></div>
 
