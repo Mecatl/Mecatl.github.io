@@ -9,7 +9,7 @@ use-site-title: true
 css: '/css/extend-home.css'
 ---
 
-<h1 class="text-center">¿Por qué volver a utilizar botellas de plástico?</h1>
+<h1 class="text-center">¿Por qué darle una segunda vida a las botellas de plástico ?</h1>
 
 <div class="spacer"></div>
 
@@ -21,7 +21,7 @@ css: '/css/extend-home.css'
           <i class="fa fa-square fa-stack-2x stack-color-1"></i>
           <i class="fa fa-building fa-stack-1x fa-inverse"></i>
         </span>
-        <p class="text-muted">Mantener limpia nuestra naturaleza mediante la reutilización de botellas de plástico.</p>
+        <p class="text-muted">Conservación de la naturaleza, pues menos botellas llegan al relleno sanitario.</p>
       </a>
     </div>
   </div>
@@ -33,7 +33,7 @@ css: '/css/extend-home.css'
           <i class="fa fa-square fa-stack-2x stack-color-2"></i>
           <i class="fa fa-cut fa-stack-1x fa-inverse"></i>
         </span>
-        <p class="text-muted">Usando nuestra gente de productos y hacer una cuerda de botellas y usarla para artesanías y otros usos.</p>
+        <p class="text-muted">Se pueden hacer distintos productos con la fibra de PET que sale de Mecatl.</p>
       </a>
     </div>
   </div>
@@ -45,7 +45,7 @@ css: '/css/extend-home.css'
           <i class="fa fa-square fa-stack-2x stack-color-3"></i>
           <i class="fa fa-money fa-stack-1x fa-inverse"></i>
         </span>
-        <p class="text-muted">Ayudar a la gente a vender sus artesanías para ayudarles a obtener ingresos.</p>
+        <p class="text-muted">Permite que la basura de algunos se convierta en la ganancia de otros.</p>
       </a>
     </div>
   </div>
@@ -55,7 +55,9 @@ css: '/css/extend-home.css'
 <img src="img/prototype.jpg" />
 
 <div style="padding: 25px 50px;text-align: justify;">
-<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<p>Una botella de PET tarda en degradarse aproximadamente 450 años, por lo que darle una segunda vida permitirá que se aproveche de la mejor manera. Uno de los caminos a seguir es reciclarlo para generar otras botellas; el otro, utilizarlas para generar algo más. 
+Por eso Mecatl es la herramienta ideal, pues permite que  las botellas sean convertidas en una cuerda que adquiere más valor al ser vendida a las empresas de reciclado o como materia prima para hacer artesanías, como lo son sillas, bolsas o incluso sombrillas.
+</p>
 </div>
 
 <h1 class="text-center"><h1>Contribuir</h1>
